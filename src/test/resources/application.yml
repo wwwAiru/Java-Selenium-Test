@@ -1,0 +1,5 @@
+auth:
+  login: ${login_yandex}
+  password: ${password_yandex}
+
+loginpageUrl: https://passport.yandex.ru/auth
